@@ -382,17 +382,17 @@ def count_rows_staging(cur, conn, fname):
 
 There are data quality checks completed during the project.  During the etl.py the counts validate data was inserted into the tables. 
 
-![fact_immigration data dictionary](/data_dictionary/Data dictionary - Project Capstone fact_immigration.pdf)
+![fact_immigration data dictionary](/data_dictionary/fact_immigration.pdf)
 
-![dim_airport_codes data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_airport_codes.pdf)
+![dim_airport_codes data dictionary](/data_dictionary/dim_airport_codes.pdf)
 
-![dim_demog data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_demog.pdf)
+![dim_demog data dictionary](/data_dictionary/dim_demog.pdf)
 
-![dim_PoE data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_PoE.pdf)
+![dim_PoE data dictionary](/data_dictionary/dim_PoE.pdf)
 
-![dim_race data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_race.pdf)
+![dim_race data dictionary](/data_dictionary/dim_race.pdf)
 
-![dim_worldtemp data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_worldtemp.pdf)
+![dim_worldtemp data dictionary](/data_dictionary/dim_worldtemp.pdf)
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
