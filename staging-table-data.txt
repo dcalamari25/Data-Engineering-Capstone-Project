@@ -1,3 +1,0 @@
-{
-"staging_immigration" : "'s3://calamaribucket-capstone/outputs/immigration_dfs1.csv'"
-}
