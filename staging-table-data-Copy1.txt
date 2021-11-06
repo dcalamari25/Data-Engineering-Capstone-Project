@@ -1,0 +1,8 @@
+{
+"staging_immigration" : "'s3://calamaribucket-capstone/outputs/immigration_dfs1.csv'"
+,"staging_airport_codes" : "'s3://calamaribucket-capstone/outputs/airport_codes_df1.csv'"
+,"staging_PoE" : "'s3://calamaribucket-capstone/outputs/PoE_df1.csv'"
+,"staging_demog" : "'s3://calamaribucket-capstone/outputs/demog_df.csv'"
+,"staging_race" : "'s3://calamaribucket-capstone/outputs/race_df.csv'"
+,"staging_worldtemp" : "'s3://calamaribucket-capstone/outputs/worldtemp_df1.csv'"
+}
