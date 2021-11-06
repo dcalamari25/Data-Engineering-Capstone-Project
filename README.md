@@ -395,25 +395,25 @@ def count_rows_staging(cur, conn, fname):
 
 There are data quality checks completed during the project.  During the etl.py the counts validate data was inserted into the tables. 
 
-![fact_immigration data dictionary](./data_dictionary/Data dictionary - Project Capstone fact_immigration.pdf)
+![fact_immigration data dictionary](/data_dictionary/Data dictionary - Project Capstone fact_immigration.pdf)
 
-![dim_airport_codes data dictionary](./data_dictionary/Data dictionary - Project Capstone dim_airport_codes.pdf)
+![dim_airport_codes data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_airport_codes.pdf)
 
-![dim_demog data dictionary](./data_dictionary/Data dictionary - Project Capstone dim_demog.pdf)
+![dim_demog data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_demog.pdf)
 
-![dim_PoE data dictionary](./data_dictionary/Data dictionary - Project Capstone dim_PoE.pdf)
+![dim_PoE data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_PoE.pdf)
 
-![dim_race data dictionary](./data_dictionary/Data dictionary - Project Capstone dim_race.pdf)
+![dim_race data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_race.pdf)
 
-![dim_worldtemp data dictionary](./data_dictionary/Data dictionary - Project Capstone dim_worldtemp.pdf)
+![dim_worldtemp data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_worldtemp.pdf)
 
 
 #### 4.4 Analytics
-![Top reason US visited chart](./analytics_images/Q1.png)
+![Top reason US visited chart](/analytics_images/Q1.png)
 
-![States most visited](./analytics_images/Q2.png)
+![States most visited](/analytics_images/Q2.png)
 
-![US State with highest port of entry](./analytics_images/Q3.png)
+![US State with highest port of entry](/analytics_images/Q3.png)
 
 *Florida* is the most visited US state.  It is often referred to as the Sunshine State, and is a major tourist attraction due to its various beaches and parks. The largest attraction that brings tourist from around the world if Walt Disney World theme park.  There are many other amusement parks around the state including Universal Studios Busch Gardens and Sea World.  There are beautiful beaches lining most of the state. Other notable sites in Florida include the Castillo de San Marcos, the Everglades, South Beach, and the famous Overseas Highway, which connects the Florida Keys to the mainland.
 
