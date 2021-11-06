@@ -47,28 +47,7 @@ Tools used:
 - AWS Redshift
 
 #### Describe and Gather Data 
-
-- I94 Immigration Sample Data 
-    - immigration_data_sample.csv 
-        - csv  
-            -This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. There's a sample file so you can take a look at the data in csv format before reading it all in. The sample dataset is in CSV format.
-- I94 Port data 
-    - i94port.json
-        - json
-            - Shows US Port of Entry city names and their corresponding codes. Source : I94_SAS_Labels_Descriptions.SAS
-- World Temperature Data
-    - world_temperature.csv
-        - csv
-            - This dataset contains temperature data of various cities from 1700's - 2013. This dataset came from Kaggle. 
-- U.S. City Demographic Data
-    - us-cities-demographics.csv
-        - csv
-            - This dataset contains population details of all US Cities and census-designated places includes gender & race informatoin. This data came from OpenSoft.
-- Airport Code Table
-    - airport-codes_csv.csv
-        - csv
-            - This is a simple table of airport codes and corresponding cities. 
-            - 
+           - 
 Data | Format | Description
 ------------ | ------------- | ------------------
 immigration_data_sample.csv | csv | This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. There's a sample file so you can take a look at the data in csv format before reading it all in. The sample dataset is in CSV format.
@@ -415,6 +394,8 @@ There are data quality checks completed during the project.  During the etl.py t
 
 ![dim_worldtemp data dictionary](/data_dictionary/Data dictionary - Project Capstone dim_worldtemp.pdf)
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 #### 4.4 Analytics
 ![Top reason US visited chart](/analytics_images/Q1.png)
