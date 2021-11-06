@@ -394,9 +394,6 @@ There are data quality checks completed during the project.  During the etl.py t
 
 ![dim_worldtemp data dictionary](/data_dictionary/dim_worldtemp.pdf)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 #### 4.4 Analytics
 ![Top reason US visited chart](/analytics_images/Q1.png)
 
